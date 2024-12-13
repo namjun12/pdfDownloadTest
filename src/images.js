@@ -52,6 +52,7 @@ export const images = {
    balance_left: require('./images/balance_left.png'),
    balance_core: require('./images/balance_core.png'),
    balance_of_power: require('./images/balance_of_power.png'),
+   custom_balance_of_power: require('./images/custom_balance_of_power.png'),
    graph_wing: require('./images/graph_wing.png'),
    graph_arrow: require('./images/graph_arrow.png'),
    icon_ego_jc: require('./images/icon_ego_jc.png'),
